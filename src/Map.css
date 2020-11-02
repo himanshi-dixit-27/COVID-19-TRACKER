@@ -10,6 +10,7 @@
   .map .leaflet-container {
     height: 100%;
     border-radius: 12px;
+    height: "100vh"
   }
   
   .info-flag img {
