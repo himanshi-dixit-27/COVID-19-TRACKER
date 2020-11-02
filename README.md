@@ -7,7 +7,7 @@ We divide it into the following sections:
 2. Info Boxes( Total cases, recovered and deaths)
 3. Table (of all countries sorted in descending order of total cases)
 4. Chart (Line chart to describe the progression or decline in cases over 120 days)
-5. Map (taken from react-leaflet)
+5. Map (pulled from OpenStreetMap)
 6. Deploy (using firebase )
  The data is pulled from https://disease.sh/ and rendered by using .json objects
  
