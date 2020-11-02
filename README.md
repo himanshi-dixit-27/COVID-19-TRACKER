@@ -1,5 +1,5 @@
-This project uses React JS, JAVASCRIPT ES7, Material-UI, React-leaflet, React-chart-js-2 & numeral (for formatting numbers).
-It is made up of function based components. 
+This project uses React JS, JAVASCRIPT ES7, Material-UI, HTML, CSS, React-leaflet, React-chart-js-2 & numeral.
+It is made up of multiple function based components. 
 
 
 We divide it into the following sections:
