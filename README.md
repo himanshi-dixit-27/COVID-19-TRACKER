@@ -1,4 +1,4 @@
-This project uses React JS, JAVASCRIPT ES7, React-leaflet & numeral (for formatting numbers).
+This project uses React JS, JAVASCRIPT ES7, Material-UI, React-leaflet & numeral (for formatting numbers).
 This project is built by using functional components. 
 
 
