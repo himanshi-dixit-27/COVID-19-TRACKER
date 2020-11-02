@@ -1,4 +1,17 @@
 This project uses React JS, JAVASCRIPT ES7, React-leaflet & numeral (for formatting numbers).
+This project is built by using functional components. 
+
+
+We divide it into following sections:
+1. Create Header
+2. Info Boxes( Total cases, recovered and deaths)
+3. Table (of all countries with total cases)
+4. Chart (Line chart to describe the progression or decline in cases)
+5. Map (taken from react-leaflet)
+6. Deploy (using firebase )
+ The data is pulled from https://disease.sh/ and rendered by using .json objects
+ 
+ 
 ## Available Scripts
 
 In the project directory, you can run:
