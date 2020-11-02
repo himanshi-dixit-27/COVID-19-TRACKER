@@ -12,7 +12,7 @@ We divide it into the following sections:
 
 The data is pulled from https://disease.sh/ and rendered by using .json objects
  
-This application is responsive for all kinds of devices.
+This application is responsive for all kind of devices.
  
  
 ## Available Scripts
