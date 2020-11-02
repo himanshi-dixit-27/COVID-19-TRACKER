@@ -9,9 +9,10 @@ We divide it into the following sections:
 4. Chart (Line chart to describe the progression or decline in cases over 120 days)
 5. Map (pulled from OpenStreetMap)
 6. Deploy (using firebase )
- The data is pulled from https://disease.sh/ and rendered by using .json objects
+
+The data is pulled from https://disease.sh/ and rendered by using .json objects
  
- This application is responsive for all kinds of devices.
+This application is responsive for all kinds of devices.
  
  
 ## Available Scripts
