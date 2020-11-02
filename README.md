@@ -2,7 +2,7 @@ This project uses React JS, JAVASCRIPT ES7, Material-UI, HTML, CSS, React-leafle
 It is made up of multiple function based components. 
 
 
-We divide it into the following sections:
+Consists of the following sections:
 1. Create Header
 2. Info Boxes( Total cases, recovered and deaths)
 3. Table (of all countries sorted in descending order of total cases)
